@@ -1,4 +1,4 @@
-#🎓 Student-Grade-Calculator 📚
+🎓 Student-Grade-Calculator 📚
 
 Task: Student Grade Calculator
 
